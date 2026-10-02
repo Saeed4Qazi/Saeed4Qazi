@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=190&amp;section=header&amp;text=Saeed%20Qazi&amp;fontSize=52&amp;animation=twinkling&amp;fontColor=0f172a&amp;desc=Aspiring%20Penetration%20Tester%20%7C%20VAPT%20%26%20AppSec&amp;descSize=20&amp;descAlignY=58" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=190&amp;section=header&amp;text=Saeed%20Qazi&amp;fontSize=52&amp;animation=twinkling&amp;fontColor=0f172a&amp;desc=Aspiring%20Penetration%20Tester%20%7C%20VAPT%2C%20AppSec&amp;descSize=20&amp;descAlignY=58" alt="header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Aspiring+Penetration+Tester;VAPT+%26+Application+Security;Burp+Suite+%E2%80%A2+Python+%E2%80%A2+Splunk;Building+in+public%2C+one+lab+at+a+time" alt="typing"/>
@@ -74,14 +74,6 @@ Final-year project based on a Smart India Hackathon problem statement. Real-time
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Saeed4Qazi&amp;theme=nord&amp;border=7dd3fc" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saeed4Qazi&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saeed4Qazi&amp;theme=nord&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Graph" alt="activity graph" width="100%"/>
 </p>
 
 ---
