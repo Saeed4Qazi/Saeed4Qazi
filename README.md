@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=190&section=header&text=Saeed%20Qazi&fontSize=52&animation=twinkling&fontColor=0f172a&desc=Aspiring%20Penetration%20Tester%20%7C%20VAPT%20%26%20AppSec&descSize=20&descAlignY=58" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=190&amp;section=header&amp;text=Saeed%20Qazi&amp;fontSize=52&amp;animation=twinkling&amp;fontColor=0f172a&amp;desc=Aspiring%20Penetration%20Tester%20%7C%20VAPT%20%26%20AppSec&amp;descSize=20&amp;descAlignY=58" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=640&lines=Aspiring+Penetration+Tester;VAPT+%26+Application+Security;Burp+Suite+%E2%80%A2+Python+%E2%80%A2+Splunk;Building+in+public%2C+one+lab+at+a+time" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Aspiring+Penetration+Tester;VAPT+%26+Application+Security;Burp+Suite+%E2%80%A2+Python+%E2%80%A2+Splunk;Building+in+public%2C+one+lab+at+a+time" alt="typing"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Security%20Roles-7dd3fc?style=for-the-badge&logoColor=white" alt="open to work"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Security%20Roles-7dd3fc?style=for-the-badge&amp;logoColor=white" alt="open to work"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saeed4Qazi&color=7dd3fc&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Saeed4Qazi?label=Followers&style=flat&color=7dd3fc" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Saeed4Qazi&amp;color=7dd3fc&amp;style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Saeed4Qazi?label=Followers&amp;style=flat&amp;color=7dd3fc" alt="followers"/>
 </p>
 
 ---
@@ -33,9 +33,9 @@ const saeed = {
 
 ## Featured Projects
 
-### DDoS Detection & Mitigation System
+### DDoS Detection &amp; Mitigation System
 
-[![DDoS Protection System](https://github-readme-stats.vercel.app/api/pin/?username=Saeed4Qazi&repo=ddos-protection-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/Saeed4Qazi/ddos-protection-system)
+[![DDoS Protection System](https://github-readme-stats.vercel.app/api/pin/?username=Saeed4Qazi&amp;repo=ddos-protection-system&amp;theme=nord&amp;border_color=7dd3fc&amp;title_color=7dd3fc)](https://github.com/Saeed4Qazi/ddos-protection-system)
 
 Final-year project based on a Smart India Hackathon problem statement. Real-time DDoS attack detection and classification for cloud infrastructure using machine learning: classifies network traffic into **11 DDoS attack types** on the CIC-DDoS2019 benchmark dataset (87,536 samples), with an interactive Streamlit dashboard for live prediction.
 
@@ -56,9 +56,9 @@ Final-year project based on a Smart India Hackathon problem statement. Real-time
   <img src="https://skillicons.dev/icons?i=py,powershell,linux,docker,fastapi,git,vscode" alt="stack"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Splunk-65A637?style=flat&logo=splunk&logoColor=white" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&amp;logo=burp-suite&amp;logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Splunk-65A637?style=flat&amp;logo=splunk&amp;logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Nmap-000000?style=flat" alt="Nmap"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=flat" alt="OWASP"/>
 </p>
@@ -68,20 +68,20 @@ Final-year project based on a Smart India Hackathon problem statement. Real-time
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saeed4Qazi&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeed4Qazi&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="top langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saeed4Qazi&amp;show_icons=true&amp;theme=nord&amp;border_color=7dd3fc&amp;title_color=7dd3fc" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeed4Qazi&amp;layout=compact&amp;theme=nord&amp;border_color=7dd3fc&amp;title_color=7dd3fc" alt="top langs" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saeed4Qazi&theme=nord&border=7dd3fc" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Saeed4Qazi&amp;theme=nord&amp;border=7dd3fc" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saeed4Qazi&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saeed4Qazi&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4" alt="trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saeed4Qazi&theme=nord&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saeed4Qazi&amp;theme=nord&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Graph" alt="activity graph" width="100%"/>
 </p>
 
 ---
@@ -89,8 +89,8 @@ Final-year project based on a Smart India Hackathon problem statement. Real-time
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/saeedqazi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:saeed4qazi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/saeedqazi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:saeed4qazi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=120&amp;section=footer" alt="footer"/>
