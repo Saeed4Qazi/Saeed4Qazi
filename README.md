@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=190&amp;section=header&amp;text=Saeed%20Qazi&amp;fontSize=52&amp;animation=twinkling&amp;fontColor=0f172a&amp;desc=Aspiring%20Penetration%20Tester%20%7C%20VAPT%2C%20AppSec&amp;descSize=20&amp;descAlignY=58" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=190&amp;section=header&amp;text=Saeed%20Qazi&amp;fontSize=52&amp;animation=twinkling&amp;fontColor=0f172a&amp;desc=Aspiring%20Penetration%20Tester%20%7C%20VAPT%2C%20AppSec&amp;descSize=18&amp;descAlignY=76" alt="header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Aspiring+Penetration+Tester;VAPT+%26+Application+Security;Burp+Suite+%E2%80%A2+Python+%E2%80%A2+Splunk;Building+in+public%2C+one+lab+at+a+time" alt="typing"/>
