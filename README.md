@@ -19,13 +19,13 @@
 
 ```typescript
 const saeed = {
-  title: "Aspiring Penetration Tester",
-  focus: ["VAPT", "Application Security", "Network Security"],
+      title: "Cybersecurity Analyst | SOC Analyst",
+      focus: ["SOC Analysis", "Detection and Log Analysis", "VAPT", "Application Security"],
   stack: ["Python", "Burp Suite", "Splunk", "Wireshark", "Linux", "PowerShell"],
   launchedProjects: ["ddos-protection-system"],
-  certifications: ["ISO 27701 Lead Auditor", "COFPS", "CLLMSP", "RIPE NCC Networking"],
+      certifications: ["ISO/IEC 27701:2025 Lead Auditor", "COFPS", "CLLMSP", "RIPE NCC Networking"],
   status: "2026 CSE Graduate, building in public",
-  openTo: ["Security Analyst (VAPT)", "Junior Pentester", "SOC Analyst", "GRC Analyst"],
+      openTo: ["SOC Analyst", "Security Analyst (VAPT)", "Junior Pentester", "GRC Analyst"],
 };
 ```
 
