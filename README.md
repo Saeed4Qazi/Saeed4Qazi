@@ -24,6 +24,7 @@ const saeed = {
   stack: ["Python", "Burp Suite", "Splunk", "Wireshark", "Linux", "PowerShell"],
   launchedProjects: ["ddos-protection-system"],
       certifications: ["ISO/IEC 27701:2025 Lead Auditor", "COFPS", "CLLMSP", "RIPE NCC Networking"],
+      training: ["Microsoft Learn: Introduction to Microsoft Security Solutions (SC-900 path), Nov 2026", "Microsoft Learn: Configure your Microsoft Sentinel environment, Nov 2026", "Microsoft Learn: KQL for Microsoft Sentinel, Nov 2026", "Microsoft Learn: Cloud Security Posture Management, Nov 2026"],
   status: "2026 CSE Graduate, building in public",
       openTo: ["SOC Analyst", "Security Analyst (VAPT)", "Junior Pentester", "GRC Analyst"],
 };
@@ -37,12 +38,12 @@ const saeed = {
 
 [![DDoS Protection System](https://github-readme-stats.vercel.app/api/pin/?username=Saeed4Qazi&amp;repo=ddos-protection-system&amp;theme=nord&amp;border_color=7dd3fc&amp;title_color=7dd3fc)](https://github.com/Saeed4Qazi/ddos-protection-system)
 
-Final-year project based on a Smart India Hackathon problem statement. Real-time DDoS attack detection and classification for cloud infrastructure using machine learning: classifies network traffic into **11 DDoS attack types** on the CIC-DDoS2019 benchmark dataset (87,536 samples), with an interactive Streamlit dashboard for live prediction.
+Final-year project based on a Smart India Hackathon problem statement. Real-time DDoS attack detection and classification for cloud infrastructure using machine learning, with an interactive Streamlit dashboard for live prediction. This repository holds the laptop version: two Random Forest models trained on subsampled data (5,000 rows per file) because of storage limits. The project was presented on GPU hardware, where the full version ran with a custom PyTorch DNN, covering 18 attack types at about 92.9% accuracy. Full details are in the 60+ page project report.
 
 | Layer | Technology |
 |---|---|
 | Language | Python 3.12 |
-| ML Model | Random Forest (Scikit-learn), 92.59% accuracy |
+| ML Model | Random Forest (Scikit-learn), 92.59% (single-file laptop model) |
 | Data | Pandas, NumPy, CIC-DDoS2019 |
 | Dashboard | Streamlit (live prediction + charts) |
 
